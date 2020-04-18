@@ -1,6 +1,6 @@
 # Random Forest Classifier
 Create any kind of Random Forest Classifier with any dataset. 
-This example uses 
+This example uses [Graduate Admission 2](https://www.kaggle.com/mohansacharya/graduate-admissions) available on Kaggle
 
 ## Working of RFCs
 The random forest classifier is a model made up of many decision trees. 
@@ -28,4 +28,4 @@ from sklearn.metrics import confusion_matrix
 [Apache License 2.0](https://github.com/ani-poroorkara/RandomForestClassifier/blob/master/LICENSE)
 
 ##### I recommend using Google Colab or Jupyter notebooks to run the file cell by cell
-##### [LinkedIn](https://www.linkedin.com/in/anirudh-poroorkara-34900017b/)
+##### Connect with me on [LinkedIn](https://www.linkedin.com/in/anirudh-poroorkara-34900017b/)
